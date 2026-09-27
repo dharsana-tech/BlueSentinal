@@ -20,7 +20,7 @@ potential threats to coral reef ecosystems.
 
 | Member | Responsibility |
 |---|---|
-| Dharsana | AI/ML + Team Lead |
+| Dharsana | AI/ML |
 | Anusha | Frontend/UI |
 | Darshikaa | GIS/Maps |
 | Kavi | Satellite & Environmental Data |
